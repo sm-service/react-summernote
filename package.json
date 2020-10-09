@@ -31,6 +31,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "codemirror": "^5.26.0",
+    "jquery": "^3.5.1",
     "prop-types": "^15.5.10",
     "summernote": "^0.8.15"
   },
